@@ -2,7 +2,7 @@
   "compilerOptions": {
     "rootDir": ".",
     "paths": {
-      "@reat-native/twitter-auth-modal-provider": ["./src/index"]
+      "@react-native/twitter-auth-modal-provider": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,

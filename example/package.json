@@ -1,5 +1,5 @@
 {
-  "name": "@reat-native/twitter-auth-modal-provider-example",
+  "name": "@react-native/twitter-auth-modal-provider-example",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
